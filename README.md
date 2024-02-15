@@ -13,7 +13,7 @@ The dataset is sourced from a monthly updated database by the National Health In
 - **Custom Formatting**: Incorporates custom visual enhancements for better data representation and comparison.
 
 ## How to Use
-1. **Filtering Data**: Use the ATC Main and Sub-group filters, or the substance filter for specific insights.
+1. **Filtering Data**: Use the ATC Main and Sub-group filters, or the substance filter for specific insights. Use Shape map visual to filter country level data.
 2. **Navigating the Dashboard**: Hover over the map for county KPIs or use the table visual in the bottom right for detailed drillthrough pages on medicines.
 3. **Switching Metrics**: Toggle between Revenue and Revenue per Capita data using the bookmarks feature for dynamic visualizations.
 
